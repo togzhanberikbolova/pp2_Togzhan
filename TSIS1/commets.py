@@ -1,0 +1,9 @@
+#1
+#Ths is a comment
+
+#2
+"""
+This is a comment
+written in
+more just one line 
+"""
