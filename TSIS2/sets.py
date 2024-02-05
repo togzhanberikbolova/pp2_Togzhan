@@ -18,6 +18,7 @@ fruits.update(more_fruits)
 #4
 fruits = {"apple", "banana", "cherry"}
 fruits.remove("banana")
+print(fruits)
 
 
 #5
