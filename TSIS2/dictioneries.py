@@ -42,7 +42,6 @@ car =   {
     "year": 1964
 }
 car.clear()
-print(car)
 
 
 

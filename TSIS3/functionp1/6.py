@@ -3,4 +3,4 @@ def reverse( word ) :
     lst = lst[ -1 :: -1 ]
     print( lst )
     
-reverse(str(input("Enter word: ")))
+reverse( str ( input ( "Enter word: " ) ) )

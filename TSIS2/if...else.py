@@ -33,7 +33,7 @@ else:
     
     
 #5
-if a == b and c==d:
+if a == b and c == d:
     print("Hello")
     
     

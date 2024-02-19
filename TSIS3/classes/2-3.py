@@ -14,8 +14,8 @@ x.area()
 #3
 class Rectangle(Shape):
     def __init__(self):
-        self.lengthR=int(input("length: "))
-        self.widthR=int(input("width: "))
+        self.lengthR=int(input("lengthR: "))
+        self.widthR=int(input("widthR: "))
     def areaR(self):
         self.a=self.lengthR*self.widthR
         print(self.a)  
