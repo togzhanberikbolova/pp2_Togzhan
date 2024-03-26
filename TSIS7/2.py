@@ -1,4 +1,5 @@
 import pygame
+
 pygame.init()
 
 clock=pygame.time.Clock()
@@ -10,9 +11,11 @@ pygame.mixer.music.load(songs[0])
 pygame.mixer.music.play()
 
 current_song_index = 0
+
 done=False
 pause=False
 vol=1.0
+
 while not done:
    for event in pygame.event.get():
       if event.type == pygame.QUIT:
